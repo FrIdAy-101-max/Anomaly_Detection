@@ -26,3 +26,8 @@ The goal of this project is to identify anomalies in time series data, particula
 
 ## Results
 
+![image](https://github.com/user-attachments/assets/258fa774-37ca-41b9-9afe-69cb5e8d4fea)
+![image](https://github.com/user-attachments/assets/a53826fa-3dcc-4d20-9485-ce3819e5f4d3)
+
+
+
